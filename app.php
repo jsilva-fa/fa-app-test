@@ -1,5 +1,5 @@
 <?php
-// Training fixture only. Do not deploy.
+// Training fixture only.
 declare(strict_types=1);
 
 header('Content-Type: application/json');
