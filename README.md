@@ -1,1 +1,2 @@
 # fa-app-test
+API-KEY=ZXN0b2VzdW5hYXBpa2V5ZGVwcnVlYmFwZXJvZXNyZWFsZw==
